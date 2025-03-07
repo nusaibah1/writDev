@@ -42,4 +42,21 @@ body{
     color: inherit;
 }
 
+/* === Header === */
+.row{
+    text-align: center;
+    margin: 3em;
+}
+.row h1{
+    font-family: "Recursive";
+    font-weight: 400;
+    font-style: italic;
+    color: var(--accentColor);
+}
+.row h3{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 29px;
+}
 
